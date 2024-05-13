@@ -1,0 +1,36 @@
+p {
+  font-size: 12pt;
+  font-family: Arial, Helvetica;
+  font-weight: normal;
+  color: red;
+}
+h1 {
+  font-size: 36pt;
+  font-family: Verdana, Arial;
+  text-decoration: underline;
+  text-align: center;
+  background-color: hsl(180, 100%, 25%);
+}
+td {
+  font-size: 10pt;
+  font-family: Verdana, Arial;
+  text-align: center;
+  background-color: #666666;
+}
+div:hover {
+  background-color: #f89b4d;
+}
+div {
+  background-color: blue;
+  width: 150px;
+  height: 130px;
+  padding: 12px;
+  border: solid 3px green;
+  margin: 30px;
+  box-sizing: border-box;
+  color: aliceblue;
+}
+span {
+  background-color: red;
+  display: block;
+}
